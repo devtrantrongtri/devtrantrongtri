@@ -1,4 +1,4 @@
-# Trần Trọng Trí - VietNam
+# Trần Trọng Trí
 
 
 <a href="https://github.com/devxb/gitanimals">
